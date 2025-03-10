@@ -7,9 +7,7 @@ Crea un directori compartit a través de NFS amb el nom "Tasca2-X" on X sigui el
 Activitat 2
 Crea un punt de muntatge al teu client i munta la carpeta del server.
 Comprova l'accés al recurs compartit
-
-![image](https://github.com/user-attachments/assets/60afa794-699e-4dee-b3aa-393518f23c75)
-![image](https://github.com/user-attachments/assets/ee62868b-f178-4a3d-b2df-f39130a766c7)
+![image](https://github.com/user-attachments/assets/d97472aa-c174-4741-b04d-3a196f2a5578)
 
 Activitat 3
 Crea un directori compartit utilitzant NFS anomenat Tasca3-X, on X es el teu cognom. Fes que es pugui compartir amb qualsevol client. 
