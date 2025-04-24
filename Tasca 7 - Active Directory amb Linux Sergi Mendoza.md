@@ -38,6 +38,7 @@ Comprova el funcionament del servei de DNS de samba i de Kerberos
 
 Activitat 8
 Connecta l'equip Windows al domini
+![Captura de pantalla 2025-04-24 123447](https://github.com/user-attachments/assets/deeec3b9-656e-49c2-a570-0ff0148a1072)
 
 Activitat 9
 Inicia sessió a Windows amb l'usuari que has creat a l'activitat 6
