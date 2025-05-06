@@ -31,3 +31,19 @@ Canvieu el nom de l'equip del client a Windows-X on X es el vostre cognom
 ![image](https://github.com/user-attachments/assets/345d8db5-770b-43b6-a01f-34be863e40bc)
 ![image](https://github.com/user-attachments/assets/24a78f74-cacf-46be-b698-d24a3284552f)
 ![image](https://github.com/user-attachments/assets/37688c55-a5bb-4cbd-b1e0-d36c91a57691)
+
+Tasca 10 - Configuració d'aspectes de Zentyal
+
+Activitat 1
+Fes una còpia de seguretat de la configuració de Zentyal que es digui backup + data del dia.
+![image](https://github.com/user-attachments/assets/12a98841-8b90-4a5e-bf13-119da6819053)
+
+Activitat 2
+Crea una carpeta a la que pugui accedir qualsevol usuari anomenada pub.
+![image](https://github.com/user-attachments/assets/dbd94ecf-d438-4aa7-8e5f-b4b03d9ea478)
+
+Activitat 3
+Accediu a la carpeta creada des del client Windows connectant-la a la unitat Z
+
+Activitat 4
+Canvia la contrasenya per part d'un client 
