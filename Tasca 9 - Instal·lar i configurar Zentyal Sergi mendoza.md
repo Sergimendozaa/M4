@@ -29,3 +29,5 @@ Activitat 4
 Canvieu el nom de l'equip del client a Windows-X on X es el vostre cognom
 ![image](https://github.com/user-attachments/assets/fb820079-f3d8-420c-809c-b6b1e89de1c3)
 ![image](https://github.com/user-attachments/assets/345d8db5-770b-43b6-a01f-34be863e40bc)
+![image](https://github.com/user-attachments/assets/24a78f74-cacf-46be-b698-d24a3284552f)
+![image](https://github.com/user-attachments/assets/37688c55-a5bb-4cbd-b1e0-d36c91a57691)
