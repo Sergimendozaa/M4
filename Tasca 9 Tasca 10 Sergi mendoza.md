@@ -41,9 +41,15 @@ Fes una còpia de seguretat de la configuració de Zentyal que es digui backup +
 Activitat 2
 Crea una carpeta a la que pugui accedir qualsevol usuari anomenada pub.
 ![image](https://github.com/user-attachments/assets/dbd94ecf-d438-4aa7-8e5f-b4b03d9ea478)
+![image](https://github.com/user-attachments/assets/101fa1f8-5799-4f96-aa44-ae00dc6adf41)
 
 Activitat 3
 Accediu a la carpeta creada des del client Windows connectant-la a la unitat Z
+![image](https://github.com/user-attachments/assets/8fbb9ac6-b0c9-4d5c-9b6e-4ca95a43a79d)
 
 Activitat 4
 Canvia la contrasenya per part d'un client 
+![image](https://github.com/user-attachments/assets/f891a953-ae07-4304-9e30-356d57fb667e)
+![image](https://github.com/user-attachments/assets/504a4998-5f52-49a4-887c-57c861dc0981)
+![image](https://github.com/user-attachments/assets/aba4971c-c7f0-4781-8af4-e2e296ef516f)
+
